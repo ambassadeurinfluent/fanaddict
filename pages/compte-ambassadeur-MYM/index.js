@@ -21,6 +21,8 @@ export default function Compteambassadeurmym() {
       
           document.documentElement.style.setProperty('--article-read-bar', `${scrolled}%`);
         });
+      } else {
+        document.documentElement.style.removeProperty('--article-read-bar')
       }
     },[router.pathname]
   )

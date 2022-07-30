@@ -11,8 +11,6 @@ export default function Erreursaeviternouveauxclients() {
 
   useEffect(
     ()=> {
-      console.log(router.pathname)
-
       if(router.pathname !== "/"){
         window.addEventListener('scroll', event => {    
           const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
@@ -21,6 +19,8 @@ export default function Erreursaeviternouveauxclients() {
       
           document.documentElement.style.setProperty('--article-read-bar', `${scrolled}%`);
         });
+      } else {
+        document.documentElement.style.removeProperty('--article-read-bar')
       }
     },[router.pathname]
   )

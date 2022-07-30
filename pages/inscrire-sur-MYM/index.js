@@ -4,6 +4,7 @@ import Header from '../../components/Header'
 import Head from 'next/head'
 import { useRouter } from 'next/router'
 import { useEffect } from 'react'
+import Link from 'next/link'
 
 export default function SinscriresurMym() {
 
@@ -36,7 +37,7 @@ export default function SinscriresurMym() {
       <Header></Header>
       <main className={styles.main}>
         <h1>S inscrire sur MYM </h1>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/BTb794xF-wk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/BTb794xF-wk" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
           <p>Avant de s inscrire sur MYM vous devez choisir le type de compte que vous souhaitez entre un compte ambassadeur MYM ou un compte créateur MYM.</p>
           <p>En effet, cela déterminera l’activité dont vous avez le droit d’exercer ainsi que les sources de revenus que vous allez percevoir.</p>
           <p>Le compte créateur MYM s’adresse aux personnes ayant déjà une communauté ou bien souhaitant en créer pour monétiser du contenu de manière sécurisée. La garantie du contenu exclusif ainsi que la sécurisation des moyens de paiements permettent aux influenceurs de ne se soucier que de leur communauté.</p>
@@ -44,10 +45,10 @@ export default function SinscriresurMym() {
           <p>Le compte ambassadeur MYM est plutôt destiné aux entrepreneurs et managers souhaitant démocratiser la plateforme MYM et aider les créateurs de contenu à générer plus de chiffres d’affaires. Il est nécessaire de les accompagner à travers le développement de leurs canaux d’acquisition et leur fournir des processus qui fonctionnent pour monter une communauté engagée et apte à dépenser de l’argent.</p>
           <p>Il n’y a pas de prérequis pour devenir ambassadeur mais la connaissance du marketing digital est indispensable. Pour recevoir gratuitement la formation Ambassadeur MYM, cliquez ici.</p>
 
-          <p>Pour en apprendre d’avantage sur le compte ambassadeur MYM cliquez <a href="/compte-ambassadeur-MYMM" onclick="route()">ici</a>
+          <p>Pour en apprendre d’avantage sur le compte ambassadeur MYM cliquez <Link href="/compte-ambassadeur-MYMM">ici</Link>
           </p>
 
-          <p>Pour en apprendre d’avantage sur le compte créateur MYM cliquez <a href="/compte-createur-MYMM" onclick="route()">ici</a></p>
+          <p>Pour en apprendre d’avantage sur le compte créateur MYM cliquez <Link href="/compte-createur-MYMM">ici</Link></p>
 
           <p>Une fois le type de compte choisi pour s’inscrire sur MYM vous devrez entrer vos informations personnelles.</p>
 

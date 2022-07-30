@@ -210,8 +210,11 @@
 }
 
 .bodycardarticle{
+  padding: 0px 30px 15px 30px;
+}
+
+.bodycardarticle aside {
   text-align: justify;
-  padding: 0px 20px 30px 20px;
 }
 
 .bodycardarticle h2{

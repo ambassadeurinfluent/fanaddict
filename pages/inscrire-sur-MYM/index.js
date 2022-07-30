@@ -35,9 +35,9 @@ export default function SinscriresurMym() {
 
       <Header></Header>
       <main className={styles.main}>
-        <h1>S'inscrire sur MYM </h1>
+        <h1>S inscrire sur MYM </h1>
           <iframe width="560" height="315" src="https://www.youtube.com/embed/BTb794xF-wk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          <p>Avant de s'inscrire sur MYM vous devez choisir le type de compte que vous souhaitez entre un compte ambassadeur MYM ou un compte créateur MYM.</p>
+          <p>Avant de s inscrire sur MYM vous devez choisir le type de compte que vous souhaitez entre un compte ambassadeur MYM ou un compte créateur MYM.</p>
           <p>En effet, cela déterminera l’activité dont vous avez le droit d’exercer ainsi que les sources de revenus que vous allez percevoir.</p>
           <p>Le compte créateur MYM s’adresse aux personnes ayant déjà une communauté ou bien souhaitant en créer pour monétiser du contenu de manière sécurisée. La garantie du contenu exclusif ainsi que la sécurisation des moyens de paiements permettent aux influenceurs de ne se soucier que de leur communauté.</p>
 
@@ -78,11 +78,11 @@ export default function SinscriresurMym() {
 
           <p>Une fois validé, ils vous enverront un email de confirmation sous 48h. </p>
 
-          <p>Renseignez votre date de naissance et numéro de téléphone avec l'indicatif de pays (+33… pour la France).</p>
+          <p>Renseignez votre date de naissance et numéro de téléphone avec l indicatif de pays (+33… pour la France).</p>
 
           <p>Pour certifier votre compte et recevoir vos futurs paiements, vous devrez envoyer ces documents :</p>
           <ul>
-              <li>Pièce d’identité (carte d'identité ou passeport)</li>
+              <li>Pièce d’identité (carte d identité ou passeport)</li>
               <li>Selfie en tenant votre carte d’identité dans votre main (elle doit être lisible entièrement)</li>
               <li>Coordonées bancaire</li>
           </ul>

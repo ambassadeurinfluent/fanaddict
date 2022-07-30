@@ -24,7 +24,7 @@ export default function Home() {
               <div className={styles.cardarticlemain}>
                 <img src="/images/article1.jpg" alt="" className={styles.imgmain}/>
                 <div className={styles.bodycardarticle}>
-                    <h2>S'inscrire sur MYM</h2>
+                    <h2>S inscrire sur MYM</h2>
                     <aside>Avant de s'inscrire sur MYM vous devez choisir le type de compte que vous souhaitez entre un compte ambassadeur MYM ou un compte créateur MYM. En effet, cela déterminera...</aside>
                 </div>
               </div>

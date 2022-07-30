@@ -1,0 +1,70 @@
+.article-home {
+  z-index: 15;
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  background-color: white;
+  margin-bottom: 20px;
+  -webkit-box-shadow: 0px 0px 20px 3px rgba(0,0,0,0.09); 
+  box-shadow: 0px 0px 20px 3px rgba(0,0,0,0.09);
+}
+
+.article-home h1{
+  text-decoration: none;
+  color: rgb(53, 53, 53);
+  font-size: 20px;
+}
+
+.article-home h1 a{
+  text-decoration: none;
+  color: rgb(53, 53, 53);
+  font-size: 20px;
+}
+
+
+:root {
+  --article-read-bar: 0%;
+}
+
+.article-home:after {
+  content: "";
+  display: block;
+  width: var(--article-read-bar);
+  height: 10px;
+  background: red;
+  position: absolute;
+  left : 0;
+  bottom : -10px;
+  border-radius: 10px;
+}
+
+
+header {
+  z-index: 15;
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  background-color: white;
+  margin-bottom: 20px;
+  -webkit-box-shadow: 0px 0px 20px 3px rgba(0,0,0,0.09); 
+  box-shadow: 0px 0px 20px 3px rgba(0,0,0,0.09);
+}
+
+header h1{
+  cursor: pointer;
+  text-decoration: none;
+  color: rgb(53, 53, 53);
+  font-size: 20px;
+}
+
+header h1 a{
+  text-decoration: none;
+  color: rgb(53, 53, 53);
+  font-size: 20px;
+}

@@ -8,13 +8,13 @@
   max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
-  text-align: justify;
 }
 
 .main h1{
   font-size: 50px;
   position: relative;
   margin-bottom: 35px;
+  margin-top: 0;
 }
 
 
@@ -38,7 +38,30 @@
   margin-right: auto;
 }
 
+.main a{
+  color:#f24432;
+  font-weight: 800;
+}
 
+.main p, .main li, .main a{
+  font-size: 1.2rem;
+  text-align: justify;
+}
+
+.main h2{
+  font-size: 2.5rem;
+}
+
+.main span{
+  border-bottom: 4px solid #f24432;
+}
+
+.main img{
+  max-height: 400px;
+  object-fit: cover;
+  width: 100%;
+  border-radius: 20px;
+}
 
 
 .flexarticle{

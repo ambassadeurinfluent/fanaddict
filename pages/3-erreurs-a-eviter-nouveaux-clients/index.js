@@ -27,15 +27,10 @@ export default function Erreursaeviternouveauxclients() {
 
   return (
     <>
-      <Head>
-        <title>Fan Addict</title>
-        <meta name="description" content="Créez votre nouvelle source de revenue" />
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-
       <Header></Header>
       <main className={styles.main}>
         <h1>3 erreurs à éviter pour acquérir de nouveaux clients</h1>
+        <img src="https://www.devenir-influenceur.pro/wp-content/uploads/2022/03/mym-faq.png" alt="" />
         <p>Vous devez voir MYM comme une entreprise à faire tourner.</p>
 
         <h2>Se concentrer sur un seul réseau social</h2>

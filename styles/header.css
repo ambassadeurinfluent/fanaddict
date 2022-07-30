@@ -34,7 +34,7 @@
   display: block;
   width: var(--article-read-bar);
   height: 10px;
-  background: red;
+  background: #f24432;
   position: absolute;
   left : 0;
   bottom : -10px;

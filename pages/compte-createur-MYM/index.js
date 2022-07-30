@@ -27,17 +27,11 @@ export default function Comptecreateurmym() {
 
   return (
     <>
-      <Head>
-        <title>Fan Addict</title>
-        <meta name="description" content="Créez votre nouvelle source de revenue" />
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-
       <Header></Header>
       <main className={styles.main}>
       
         <h1>Compte createur MYM</h1>
-        
+        <img src="https://www.evangeline-lilly.net/wp-content/uploads/2021/05/lampe-tik-tok-2.jpg" alt="" />
           <p>Sur la plateforme MYM, le compte créateur MYM permet de percevoir entre 75% et 90% du chiffre d’affaires NET directement sur votre compte bancaire.</p>
 
           <p>Il y a 3 sources de revenus possible avec un compte créateur :</p>

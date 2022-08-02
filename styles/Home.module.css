@@ -107,14 +107,14 @@
   }
 
   .cardarticle .imgsecond {
-    max-width: 250px;
-    object-fit: cover;
+    width: calc(100% - 40px);
+    object-fit: contain;
   }
 
   .cardarticle img{
-    width: 200px;
-    height: 150px;
-    object-fit: cover;
+    width: calc(100% - 40px);
+
+    object-fit: contain;
     margin: 20px 20px 10px 20px;
     border-radius: 20px;
   }
@@ -152,8 +152,7 @@
 
   .cardarticle img{
     width: calc(100% - 40px);
-    height: 250px;
-    object-fit: cover;
+    object-fit: contain;
     margin: 20px 20px 10px 20px;
     border-radius: 20px;
   }
@@ -181,8 +180,7 @@
 
   .cardarticle img{
     width: calc(100% - 40px);
-    height: 250px;
-    object-fit: cover;
+    object-fit: contain;
     margin: 20px 20px 10px 20px;
     border-radius: 20px;
   }

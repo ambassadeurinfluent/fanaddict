@@ -30,7 +30,7 @@ export default function Erreursaeviternouveauxclients() {
       <Header></Header>
       <main className={styles.main}>
         <h1>3 erreurs à éviter pour acquérir de nouveaux clients</h1>
-        <img src="../images/erreuraeviter.png" alt="3 erreur a eviter compte MYM" />
+        <img src="/images/erreuraeviter.png" alt="3 erreur a eviter compte MYM" />
         <p>Vous devez voir MYM comme une entreprise à faire tourner.</p>
 
         <h2>Se concentrer sur un seul réseau social</h2>

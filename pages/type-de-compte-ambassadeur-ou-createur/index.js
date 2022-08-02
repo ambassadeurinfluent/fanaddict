@@ -33,7 +33,7 @@ export default function Typedecompteambassadeuroucreateur() {
       <main className={styles.main}>
         <h1>Quel type de compte choisir ? Ambassadeur ou créateur</h1>
 
-        <img src="../images/typecompte.png" alt="type de compte MYM" />
+        <img src="/images/typecompte.png" alt="type de compte MYM" />
 
           <p>Sur la plateforme MYM, le compte ambassadeur MYM permet de recevoir 10% des revenus des créateurs à vie, sans pour autant leur retirer de bénéfices.</p>
           <p>MYM s’engage tout simplement à vous reverser une partie de leur bénéfice pour vous remercier de promouvoir leur plateforme.</p>

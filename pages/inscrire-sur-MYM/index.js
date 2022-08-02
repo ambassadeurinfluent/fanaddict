@@ -32,7 +32,7 @@ export default function SinscriresurMym() {
     <>
       <Header></Header>
       <main className={styles.main}>
-        <h1>{`S'inscrire sur MYM`}</h1>
+        <h1>S&apos;inscrire sur MYM</h1>
           <iframe width="560" height="315" src="https://www.youtube.com/embed/BTb794xF-wk" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
           <p>Avant de s inscrire sur MYM vous devez choisir le type de compte que vous souhaitez entre un compte <Link href="/compte-ambassadeur-MYMM">ambassadeur</Link> MYM ou un compte <Link href="/compte-createur-MYMM">créateur</Link> MYM.</p>
           <p>En effet, cela déterminera l’activité dont vous avez le droit d’exercer ainsi que les sources de revenus que vous allez percevoir.</p>
@@ -89,7 +89,7 @@ export default function SinscriresurMym() {
 
           <p>Vous pouvez créer un compte directement avec un compte gmail ou bien remplir les mêmes informations que précédemment.</p>
 
-          <p>L inscription en compte créateur est plus rapide même si une vérification d'identité est nécessaire.</p>
+          <p>L inscription en compte créateur est plus rapide même si une vérification d&apos;identité est nécessaire.</p>
       </main>
 
 

@@ -30,7 +30,7 @@ export default function Erreursaeviternouveauxclients() {
       <Header></Header>
       <main className={styles.main}>
         <h1>3 erreurs à éviter pour acquérir de nouveaux clients</h1>
-        <img src="https://www.devenir-influenceur.pro/wp-content/uploads/2022/03/mym-faq.png" alt="" />
+        <img src="../images/erreuraeviter.png" alt="3 erreur a eviter compte MYM" />
         <p>Vous devez voir MYM comme une entreprise à faire tourner.</p>
 
         <h2>Se concentrer sur un seul réseau social</h2>
@@ -41,8 +41,15 @@ export default function Erreursaeviternouveauxclients() {
         <p>Il est indispensable d’avoir au minimum 5 réseaux sociaux pour promouvoir son image</p>
 
         <h2>Créer trop de contenu</h2>
+        <p>Vous n’avez pas besoin de créer constamment du nouveau contenu. Prévoyez un shooting et préparez votre contenu en avance.</p>
+        <p>Réutilisez le même contenu à différent moment et sur différents réseaux sociaux.</p>
+        <p>Le but est de recycler votre contenu afin d’optimiser le ratio temps/gains.</p>
 
         <h2>Trop se diversifier</h2>
+        <p>Si vous souhaitez attirer tout le monde, vous n’attirerez personne.</p>
+        <p>Vous devez être niché. C'est-à-dire vous spécialisez dans une thématique.</p>
+        <p>C’est de cette façon que vous allez créer de l’engagement de la part de vos followers qui seront plus à même de dépenser de l’argent pour vous qui êtes spécialisés.</p>
+
       </main>
 
 

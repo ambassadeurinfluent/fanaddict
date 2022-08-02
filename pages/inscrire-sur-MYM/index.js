@@ -89,7 +89,7 @@ export default function SinscriresurMym() {
 
           <p>Vous pouvez créer un compte directement avec un compte gmail ou bien remplir les mêmes informations que précédemment.</p>
 
-          <p>L’inscription en compte créateur est plus rapide même si une vérification d'identité est nécessaire.</p>
+          <p>L inscription en compte créateur est plus rapide même si une vérification d'identité est nécessaire.</p>
       </main>
 
 

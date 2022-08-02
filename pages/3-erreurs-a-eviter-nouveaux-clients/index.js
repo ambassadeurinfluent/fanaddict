@@ -47,7 +47,7 @@ export default function Erreursaeviternouveauxclients() {
 
         <h2>Trop se diversifier</h2>
         <p>Si vous souhaitez attirer tout le monde, vous n’attirerez personne.</p>
-        <p>Vous devez être niché. C'est-à-dire vous spécialisez dans une thématique.</p>
+        <p>Vous devez être niché. C est-à-dire vous spécialisez dans une thématique.</p>
         <p>C’est de cette façon que vous allez créer de l’engagement de la part de vos followers qui seront plus à même de dépenser de l’argent pour vous qui êtes spécialisés.</p>
 
       </main>

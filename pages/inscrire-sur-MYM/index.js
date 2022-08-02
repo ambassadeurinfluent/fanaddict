@@ -59,7 +59,7 @@ export default function SinscriresurMym() {
           <p>Vous pouvez écrire (attention, ne pas copier coller) sur le fait que vous allez promouvoir leur plateforme auprès de votre communauté et les accompagner dans le développement de leur image afin de monétiser leur audience de manière sécurisée…</p>
           <br/>
 
-          <h2>S inscrire sur un compte ambassadeur</h2>
+          <h2>{`S'inscrire sur un compte ambassadeur`}</h2>
 
           <p>Tout d’abord, remplissez vos informations classiques :</p>
           <ul>
@@ -85,7 +85,7 @@ export default function SinscriresurMym() {
           </ul>
 
 
-          <h2>S’inscrire sur un compte créateur</h2>
+          <h2>{`S’inscrire sur un compte créateur`}</h2>
 
           <p>Vous pouvez créer un compte directement avec un compte gmail ou bien remplir les mêmes informations que précédemment.</p>
 
